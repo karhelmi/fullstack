@@ -5,5 +5,5 @@ Repository for FullStack course
 - part0
 
 # Links
-![FullStack course site](https://fullstackopen.com/#course-contents)
-- ![Marking_submissions](https://studies.cs.helsinki.fi/stats/courses/fullstackopen)
+- [FullStack course site](https://fullstackopen.com/#course-contents)
+- [Marking submissions](https://studies.cs.helsinki.fi/stats/courses/fullstackopen)
